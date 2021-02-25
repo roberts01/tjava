@@ -9,11 +9,11 @@ I just added the Unlimited Java Cryptograpy Extension Policy 8 files.
 
 To install Java, open Termux and execute the following command:
 
-```pkg install wget && wget https://raw.githubusercontent.com/roberts01/java/master/installjava && bash installjava```
-
-> Eventually, run ```wget https://raw.githubusercontent.com/roberts01/Termux-Java/master/installjava && bash installjava``` to install Java if you arleady have ```wget``` installed.
-
-> Or just ```bash installjava``` if you have the script arleady downloaded for some reason.
+```python
+pkg install wget
+wget https://raw.githubusercontent.com/roberts01/Termux-Java/master/installjava 
+bash installjava
+```
 
 When installed, run ```java -version``` to check, if it's correcty installed (i.e. if it throws command not found error, it's clearly not.)
 

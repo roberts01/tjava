@@ -12,9 +12,11 @@ Libraries compiled by [Hax4us](https://github.com/Hax4us "Hax4us's GitHub profil
 
 To install Java, open Termux and execute the following command:
 
-```pkg install wget && wget https://raw.githubusercontent.com/MasterDevX/java/master/installjava && bash installjava```
+https://raw.githubusercontent.com/roberts01/Termux-Java/master/installjava
 
-> Eventually, run ```wget https://raw.githubusercontent.com/MasterDevX/java/master/installjava && bash installjava``` to install Java if you arleady have ```wget``` installed.
+```pkg install wget && wget https://raw.githubusercontent.com/roberts01/java/master/installjava && bash installjava```
+
+> Eventually, run ```wget https://raw.githubusercontent.com/roberts01/Termux-Java/master/installjava && bash installjava``` to install Java if you arleady have ```wget``` installed.
 
 > Or just ```bash installjava``` if you have the script arleady downloaded for some reason.
 

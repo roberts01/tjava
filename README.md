@@ -7,9 +7,9 @@ I just added the Unlimited Java Cryptograpy Extension Policy 8 files.
 
 ### How to use
 
-To install Java, open Termux and execute the following command:
+To install Java, open Termux and execute the following commands:
 
-```python
+```
 pkg install wget
 wget https://raw.githubusercontent.com/roberts01/Termux-Java/master/installjava 
 bash installjava

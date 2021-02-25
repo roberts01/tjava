@@ -4,7 +4,7 @@
 
 ### Information
 
-This script will install Java in Termux.
+This script will install Java (Open-JDK8) in Termux.
 
 Libraries compiled by [Hax4us](https://github.com/Hax4us "Hax4us's GitHub profile"), scripts written by [Hax4us](https://github.com/Hax4us "Hax4us's GitHub profile"), [MasterDevX](https://github.com/MasterDevX "MasterDevX's GitHub profile") and [Guzio](https://github.com/GuzioMG "Guzio's GitHub profile"), with some *very, very tiny* help from [Harshiv-Patel](https://Harshiv-Patel "he changed like... one thing").
 

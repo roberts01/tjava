@@ -7,7 +7,7 @@ This script will install Java (Open-JDK8) in Termux.
 To install, open Termux and execute the following commands:
 ```
 pkg install wget
-wget https://raw.githubusercontent.com/roberts01/Termux-Java/master/installjava 
+wget https://raw.githubusercontent.com/roberts01/tjava/master/installjava 
 bash installjava
 ```
 

@@ -21,4 +21,4 @@ After that you can run Java using ```java``` command.
 * [MasterDevX](https://github.com/MasterDevX "MasterDevX's GitHub profile")
 * [Guzio](https://github.com/GuzioMG "Guzio's GitHub profile")
 * [Harshiv-Patel](https://Harshiv-Patel "he changed like... one thing")
-I just added the Unlimited Java Cryptograpy Extension Policy 8 files.
+* I just added the Unlimited Java Cryptograpy Extension Policy 8 files.
